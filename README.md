@@ -12,5 +12,6 @@
   <p>2º importe o projeto para a sua IDE;
     <p>3º vá ate a pasta src->main>java>br>com>restaurante> e execute o arquivo RestauranteGftTesteApplication.java;
       <p>4º Assim que executado abra algum programa para testar e utilizar da melhor forma possivel os API's o utilizado para testes dessa aplicação postman;
-        <p>5º Explore e aproveite da melhor forma a aplicação;
+        <p>5º E por ultimo digite na barra de endereçamento "http://localhost:10000/restaurantes" (sem as aspas) para poder fazer seus experimentos e testes na aplicação;
+          
  
