@@ -1,4 +1,4 @@
-# STSAplica-oRestaurante
+# STSAplicaçãoRestaurante
 
 <H2>Ferramentas e metodologias:</H2>
 <br><p>O projeto foi desenvolvido usando a ferramenta SpringToolsSuite(STS) utilizando API REST por meio de uma aplicação Spring Boot e foi utilizado o banco de dados in memory H2. Para testes foi utilizado o Postman<br></p>
